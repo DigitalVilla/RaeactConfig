@@ -1,0 +1,1 @@
+# React app rendered on the server
